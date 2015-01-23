@@ -1,9 +1,10 @@
 # Team AAA
-## School: University of Toronto
-## Class: CSC318H
-## Term: Winter 2015
 
-# Project: Accessible Game Input Device inclusive to physically-disabled
+#### School: University of Toronto
+#### Class: CSC318H
+#### Term: Winter 2015
+
+#### Project: Accessible Game Input Device inclusive to physically-disabled
 
 <br />
 
